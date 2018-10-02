@@ -1,0 +1,23 @@
+Package: cmediation
+Title: Tools for Counterfactual Meditation Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Garrick",
+           family = "Aden-Buie",
+           role = c("aut", "cre"),
+           email = "Garrick.Aden-Buie@moffitt.org")
+Description: Tools for counterfactual mediation
+    analysis
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0
+Suggests: 
+    testthat,
+    spelling
+Language: en-US
+Imports: 
+    magrittr
+URL: https://github.com/GerkeLab/cmediation
+BugReports: https://github.com/GerkeLab/cmediation/issues
